@@ -1,1 +1,1 @@
-This is my Module 19 CryptoClustering challenge script and files.
+This is my Module 19 CryptoClustering challenge solution and files.
